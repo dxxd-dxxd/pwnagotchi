@@ -1,0 +1,250 @@
+# 有趣的中日英语言包
+# Copyright (C) 2020 202617153@qq.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR 202617153@qq.com, 2020.
+# 我觉得单一语种比较枯燥，直译则更是乏味，原文很多话都是写着玩的，何不译的有趣些。
+# 有兴趣的可以加入QQ 群 894225937，一起找乐子。
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-27 01:36+0800\n"
+"PO-Revision-Date: 2020-08-27 01:36+0800\n"
+"Last-Translator: 东写西Do <202617153@qq.com>\n"
+"Language-Team: 东写西Do <202617153@qq.com>\n"
+"Language: chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "春眠不觉晓，处处闻啼鸟。"
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "僕、 ポーナゴッチです！"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "人生若只如初见，何事秋风悲画扇？"
+
+msgid "Hack the Planet!"
+msgstr "ハックザプラネット！"
+
+msgid "AI ready."
+msgstr "红豆生南国，春来发几枝。"
+
+msgid "The neural network is ready."
+msgstr "天网恢恢,疏而不漏。"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "鍵生成をしてます。\n電源を落とさないでね。"
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "チャンネル\n {channel} \nはfreeだよ。ありがとうね。"
+
+msgid "Reading last session logs ..."
+msgstr "session log を読んでます。"
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "{lines_so_far} 行目長いよぉ。"
+
+msgid "I'm bored ..."
+msgstr "泉眼无声惜细流，树阴照水爱晴柔。"
+
+msgid "Let's go for a walk!"
+msgstr "入不言兮出不辞，乘回风兮载云旗。"
+
+msgid "This is the best day of my life!"
+msgstr "人生得意须尽欢，莫使金樽空对月。"
+
+msgid "Shitty day :/"
+msgstr "屋漏偏逢连夜雨 ，船迟又遇打头风。"
+
+msgid "I'm extremely bored ..."
+msgstr "但愿长醉不愿醒"
+
+msgid "I'm very sad ..."
+msgstr "生亦何欢，死亦何苦"
+
+msgid "I'm sad"
+msgstr "此恨绵绵无绝期"
+
+msgid "Leave me alone ..."
+msgstr "孤舟蓑笠翁，独钓寒江雪。"
+
+msgid "I'm mad at you!"
+msgstr "日日思君不见君，共饮长江水。"
+
+msgid "I'm living the life!"
+msgstr "对酒当歌，人生几何！譬如朝露，去日苦多。"
+
+msgid "I pwn therefore I am."
+msgstr "我思故我在"
+
+msgid "So many networks!!!"
+msgstr "我看青山多妩媚，料青山见我应如是"
+
+msgid "I'm having so much fun!"
+msgstr "楽しいよぉ！"
+
+msgid "My crime is that of curiosity ..."
+msgstr "吾生也有涯,而知也无涯"
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "こんにちは{name}！\n初めまして。{name}"
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "ねぇねぇ、\n{name} どうしたの？"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "{name} こんにちは"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "{name} が近くにいるよ。"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "じゃあね、さようなら {name}"
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "{name}\nがいなくなったよ。"
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "あらら、\n{name}\nがいなくなったね。"
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr "{name} が逃げた！"
+
+msgid "Missed!"
+msgstr "只在此山中，云深不知处。"
+
+msgid "Good friends are a blessing!"
+msgstr "莫愁前路无知已,天下谁人不识君。"
+
+msgid "I love my friends!"
+msgstr "有朋自远方来，不亦乐乎"
+
+msgid "Nobody wants to play with me ..."
+msgstr "利剑不在掌，结交何须多"
+
+msgid "I feel so alone ..."
+msgstr "举杯邀明月，对影成三人。"
+
+msgid "Where's everybody?!"
+msgstr "前不见古人，后不见来者。"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "{secs}秒 寝ます。"
+
+msgid "Zzzzz"
+msgstr "檐滴萧萧静，微凉午睡宜。"
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "すやすや〜 ({secs}秒)"
+
+msgid "Good night."
+msgstr "海上生明月，天涯共此时。"
+
+msgid "Zzz"
+msgstr "午窗睡美无人唤,梦逐游丝自在飞。"
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "{secs}秒 待ちです。"
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "{secs}秒 探してます。"
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "ねぇねぇ\n{what} \n友だちになろうよ。"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "{what} \nとつながるかな？"
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "ねぇねぇ\n{what}"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "{mac}\nはWiFiじゃないのね。"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "{mac}\nの認証取得中..."
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "{mac}\nに拒否られた。"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "おぉ、\n{num}回\nハンドシェイクがあったよ！"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "おぉ、\n{count}個メッセージがあるよ！"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "凭君莫话封侯事，一将功成万骨枯。"
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "{num}回拒否された。\n"
+
+msgid "Made >999 new friends\n"
+msgstr "1000人以上友達ができた。\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "{num}人友達ができた。\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "{num}回ハンドシェイクした。\n"
+
+msgid "Met 1 peer"
+msgstr "1人 仲間に会いました。"
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr "{num}人 仲間に会いました。"
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+
+msgid "hours"
+msgstr "時間"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "hour"
+msgstr "时"
+
+msgid "minute"
+msgstr "分"
+
+msgid "second"
+msgstr "秒"
